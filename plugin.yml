@@ -1,0 +1,12 @@
+name: pCommands
+main: prophecykits.plugins.minecraft.pCommands
+version: 1.0.0
+author: Twisted_Panda
+description: Commands..
+commands:
+  muteall:
+    aliases: [lockchat, stopchat]
+  staffchat:
+    aliases: [sc]
+  clearchat:
+    aliases: [cc]
